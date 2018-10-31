@@ -1,19 +1,9 @@
-/*
-
-Original highlight.js style (c) Ivan Sagalaev <maniac@softwaremaniacs.org>
-
-*/
-
 .hljs {
   display: block;
   overflow-x: auto;
   padding: 0.5em;
   background: #F0F0F0;
 }
-
-
-/* Base color: saturation 0; */
-
 .hljs,
 .hljs-subst {
   color: #444;
@@ -31,10 +21,6 @@ Original highlight.js style (c) Ivan Sagalaev <maniac@softwaremaniacs.org>
 .hljs-name {
   font-weight: bold;
 }
-
-
-/* User color: hue: 0 */
-
 .hljs-type,
 .hljs-string,
 .hljs-number,
@@ -61,10 +47,6 @@ Original highlight.js style (c) Ivan Sagalaev <maniac@softwaremaniacs.org>
 .hljs-selector-pseudo {
   color: #BC6060;
 }
-
-
-/* Language color: hue: 90; */
-
 .hljs-literal {
   color: #78A960;
 }
@@ -75,10 +57,6 @@ Original highlight.js style (c) Ivan Sagalaev <maniac@softwaremaniacs.org>
 .hljs-addition {
   color: #397300;
 }
-
-
-/* Meta color: hue: 200 */
-
 .hljs-meta {
   color: #1f7199;
 }
@@ -86,10 +64,6 @@ Original highlight.js style (c) Ivan Sagalaev <maniac@softwaremaniacs.org>
 .hljs-meta-string {
   color: #4d99bf;
 }
-
-
-/* Misc effects */
-
 .hljs-emphasis {
   font-style: italic;
 }
